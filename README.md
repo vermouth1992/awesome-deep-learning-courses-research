@@ -8,5 +8,5 @@
 ### Reinforcement Learning
 * UC Berkeley [CS294-113 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
-### General
+### Unsupervised Learning
 * UC Berkeley [CS294-158 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
