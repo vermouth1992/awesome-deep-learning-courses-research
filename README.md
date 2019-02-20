@@ -7,7 +7,7 @@
 
 ### Reinforcement Learning
 * UC Berkeley [CS294-113 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
-* Stanform [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
+* Stanford [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 
 ### Unsupervised Learning
 * UC Berkeley [CS294-158 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
